@@ -1,0 +1,18 @@
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe.config
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.pdb
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csprojAssemblyReference.cache
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Properties.Resources.resources
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.exe
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.pdb
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\bin\Debug\en-CA\Bloco de Notas.resources.dll
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\en-CA\Bloco de Notas.resources.dll
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\bin\Debug\pa\Bloco de Notas.resources.dll
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\pa\Bloco de Notas.resources.dll
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Form1.resources
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Form1.en-CA.resources
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Form1.pa.resources
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Replace.resources
+C:\Users\edelu\source\repos\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Localizar.resources
